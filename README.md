@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
