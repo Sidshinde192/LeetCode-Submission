@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 ## String
 |  |
@@ -57,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
