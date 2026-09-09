@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0035-search-insert-position) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
