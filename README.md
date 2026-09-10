@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
