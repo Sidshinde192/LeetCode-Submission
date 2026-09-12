@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 ## Sliding Window
