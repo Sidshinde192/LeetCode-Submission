@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
