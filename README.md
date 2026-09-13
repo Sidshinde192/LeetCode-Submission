@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0904-fruit-into-baskets) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
