@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0875-koko-eating-bananas) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0045-jump-game-ii) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
