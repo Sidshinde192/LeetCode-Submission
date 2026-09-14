@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
