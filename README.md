@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0875-koko-eating-bananas) |
