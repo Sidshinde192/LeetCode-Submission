@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Backtracking
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
