@@ -212,16 +212,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
