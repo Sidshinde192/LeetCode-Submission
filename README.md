@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
