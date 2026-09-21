@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0836-rectangle-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 ## Combinatorics
 |  |
 | ------- |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0802-find-eventual-safe-states) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
