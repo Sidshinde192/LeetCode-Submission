@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0130-surrounded-regions) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
