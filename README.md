@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 ## Combinatorics
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3525-find-x-value-of-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
