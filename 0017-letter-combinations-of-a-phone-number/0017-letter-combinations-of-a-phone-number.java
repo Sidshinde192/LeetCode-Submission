@@ -1,12 +1,11 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         int n = digits.length();
-
         List<String> ans = new ArrayList<>();
-        if(n== 0){
+
+        if(n == 0){
             return ans;
         }
-
 
         Map<Character, String> map = new HashMap<>();
 
@@ -19,14 +18,11 @@ class Solution {
         map.put('8', "tuv");
         map.put('9', "wxyz");
 
-        solve(0, "", digits, map, ans);
-
+        solve(0, "", digits, ans, map);
         return ans;
-
-
     }
 
-    public void solve(int idx, String curr, String digits, Map<Character, String> map, List<String> ans){
+    public void solve(int idx, String curr, String digits, List<String> ans, Map<Character, String> map){
         if(idx == digits.length()){
             ans.add(curr);
             return;
@@ -36,7 +32,7 @@ class Solution {
         String str = map.get(ch);
 
         for(int i =0; i< str.length();i++){
-            solve(idx+1, curr + str.charAt(i), digits, map, ans);
+            solve(idx+1, curr + str.charAt(i), digits, ans,map);
         }
     }
 }
