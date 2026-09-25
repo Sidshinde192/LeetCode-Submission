@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
+| [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
