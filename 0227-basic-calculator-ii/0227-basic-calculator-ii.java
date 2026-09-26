@@ -12,7 +12,7 @@ class Solution {
                 num = num * 10 + (ch - '0');
             }
 
-            if(!(Character.isDigit(ch) && ch != ' ') || i == s.length() -1){
+            if((!Character.isDigit(ch) && ch != ' ') || i == s.length() -1){
                 if(op == '+'){
                     st.push(num);
                 }
