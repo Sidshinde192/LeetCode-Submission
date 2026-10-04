@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0751-ip-to-cidr](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0751-ip-to-cidr) |
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
+| [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
