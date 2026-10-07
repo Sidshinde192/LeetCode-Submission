@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
+| [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2361-minimum-costs-using-the-train-line](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2361-minimum-costs-using-the-train-line) |
@@ -538,4 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
