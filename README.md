@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -548,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
