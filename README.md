@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
