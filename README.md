@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1236-web-crawler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1236-web-crawler) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
@@ -567,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0075-sort-colors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
