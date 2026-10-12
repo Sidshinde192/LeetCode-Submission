@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
@@ -498,15 +499,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0802-find-eventual-safe-states) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Design
 |  |
 | ------- |
