@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2361-minimum-costs-using-the-train-line](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
