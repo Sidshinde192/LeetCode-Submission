@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
+| [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
+| [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2361-minimum-costs-using-the-train-line](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2361-minimum-costs-using-the-train-line) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
+| [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0751-ip-to-cidr](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0751-ip-to-cidr) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
@@ -658,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
+## Bitmask
+|  |
+| ------- |
+| [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 <!---LeetCode Topics End-->
