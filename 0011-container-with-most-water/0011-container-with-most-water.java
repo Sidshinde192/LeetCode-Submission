@@ -4,13 +4,12 @@ class Solution {
 
         int left =0;
         int right = n-1;
-
-        int maxArea =0;
+        int maxLength =0;
 
         while(left < right){
-            int area = Math.min(height[left], height[right]) *(right - left);
+            int area = Math.min(height[left], height[right]) * (right - left);
 
-            maxArea = Math.max(area, maxArea);
+            maxLength = Math.max(area, maxLength);
 
             if(height[left] < height[right]){
                 left++;
@@ -20,6 +19,6 @@ class Solution {
             }
         }
 
-        return maxArea;
+        return maxLength;
     }
 }
