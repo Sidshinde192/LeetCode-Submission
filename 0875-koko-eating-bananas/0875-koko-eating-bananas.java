@@ -2,9 +2,10 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int low = 1;
 
-        int max = 0;
-        for(int pile : piles){
-            max = Math.max(max, pile);
+        int max = Integer.MIN_VALUE;
+
+        for(int num : piles){
+            max = Math.max(num, max);
         }
 
         int high = max;
@@ -23,13 +24,13 @@ class Solution {
         return low;
     }
 
-    public boolean canEat(int [] piles, int hour, int totalHr){
+    public boolean canEat(int [] piles, int mid, int h){
         int total =0;
 
         for(int i =0; i< piles.length;i++){
-            total += Math.ceil((double) piles[i]/ (double) hour);
+            total += Math.ceil((double)piles[i] / (double) mid);
         }
 
-        return total <= totalHr;
+        return total <= h;
     }
 }
