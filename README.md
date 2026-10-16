@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
