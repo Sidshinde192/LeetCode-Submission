@@ -12,9 +12,9 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-                char top = st.pop();
 
-                if(ch == ')' && top == '(' || ch == '}' && top == '{' || ch == ']' && top == '['){
+                if(ch == ')' && st.peek() == '(' || ch == ']' && st.peek() =='[' || ch == '}' && st.peek() == '{'){
+                    st.pop();
                     continue;
                 }
                 else{
@@ -22,7 +22,6 @@ class Solution {
                 }
 
             }
-
         }
 
         return st.isEmpty();
