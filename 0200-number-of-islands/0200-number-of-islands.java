@@ -3,11 +3,11 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        int [][] visited = new int[n][m];
-        int [] dr = {-1,0,1,0};
-        int [] dc = {0,1,0,-1};
-        int count =0;
+        int [] dr = {-1, 0,1,0};
+        int [] dc = {0,1, 0, -1};
 
+        int [][] visited = new int[n][m];
+        int count =0;
 
         for(int i =0; i< n;i++){
             for(int j =0; j< m;j++){
@@ -21,16 +21,17 @@ class Solution {
         return count;
     }
 
-    public void dfs(int row, int col, char[][] grid, int [][] visited, int [] dr, int [] dc, int n, int m){
+    public void dfs(int row, int col, char[][] grid, int [][] visited, int [] dr, int[] dc, int n, int m){
         visited[row][col] = 1;
 
         for(int i =0; i< 4;i++){
             int nrow = dr[i] + row;
             int ncol = dc[i] + col;
 
-            if(nrow >= 0 && ncol >=0 && nrow < n && ncol < m && grid[nrow][ncol] =='1' && visited[nrow][ncol] == 0){
+            while(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && visited[nrow][ncol] == 0 && grid[nrow][ncol] == '1'){
                 dfs(nrow, ncol, grid, visited, dr, dc, n, m);
             }
+
         }
     }
 }
