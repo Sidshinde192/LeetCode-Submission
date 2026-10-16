@@ -1,20 +1,20 @@
 class Solution {
     public int climbStairs(int n) {
-       if(n <= 3){
-         return n;
-       }
+        int [] dp = new int[n+1];
+        return f(0, n, dp);
+    }
 
-       int prev1 = 1;
-       int prev = 2;
+    public int f(int i, int n, int [] dp){
+        if(i > n){
+            return 0;
+        }
+        if(i == n){
+            return 1;
+        }
+        if(dp[i] > 0){
+            return dp[i];
+        }
 
-       for(int i =3; i<=n;i++){
-        int curr = prev1 + prev;
-        prev1 = prev;
-        prev = curr;
-       }
-
-       return prev;
-
-
+        return dp[i] = f(i+1, n, dp) + f(i+2, n, dp);
     }
 }
