@@ -13,13 +13,12 @@ class Solution {
             return;
         }
 
-        for(int i = idx+1; i< nums.length;i++){
+        for(int i = idx +1; i< nums.length;i++){
             if(nums[i] != 0){
-                int temp = nums[idx];
-                nums[idx] = nums[i];
-                nums[i] = temp;
+                int temp = nums[i];
+                nums[i] = nums[idx];
+                nums[idx] = temp;
                 idx++;
-
             }
         }
     }
