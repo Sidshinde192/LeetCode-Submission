@@ -3,8 +3,8 @@ class Solution {
         int l = -200;
         int r = 200;
 
-        while(l < r){
-            int mid = (l + r)/2;
+        while(l <= r){
+            int mid = l + (r-l)/2;
 
             if(mid == num1 + num2){
                 return mid;
@@ -14,7 +14,7 @@ class Solution {
                 l = mid+1;
             }
             else{
-                r = mid-1;
+                r = mid -1;
             }
         }
 
