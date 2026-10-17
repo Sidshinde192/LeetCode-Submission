@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Math
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
