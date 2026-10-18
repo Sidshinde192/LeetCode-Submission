@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3524-find-x-value-of-array-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2361-minimum-costs-using-the-train-line](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Newton's Method
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -436,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
@@ -516,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -593,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bidirectional Search
 |  |
@@ -665,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -686,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
