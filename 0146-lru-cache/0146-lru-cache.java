@@ -4,6 +4,7 @@ class LRUCache {
         int val;
         Node next;
         Node prev;
+
         Node(int key, int val){
             this.key = key;
             this.val = val;
@@ -12,13 +13,14 @@ class LRUCache {
 
     Node head = new Node(0,0);
     Node tail = new Node(0,0);
-    int capacity;
     Map<Integer, Node> map = new HashMap<>();
+    int capacity;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
         head.next = tail;
         tail.prev = head;
+        
     }
     
     public int get(int key) {
@@ -37,7 +39,7 @@ class LRUCache {
         if(map.containsKey(key)){
             remove(map.get(key));
         }
-        if(capacity == map.size()){
+        if(map.size() == capacity){
             remove(tail.prev);
         }
         insert(new Node(key, value));
