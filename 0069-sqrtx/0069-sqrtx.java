@@ -17,7 +17,6 @@ class Solution {
             }
 
             if(square < x){
-
                 low = mid+1;
             }
             else{
