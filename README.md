@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
