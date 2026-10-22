@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
+| [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
 | [0836-rectangle-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
+| [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
 ## Segment Tree
 |  |
 | ------- |
@@ -744,4 +746,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
