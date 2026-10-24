@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
+| [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 | [1236-web-crawler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1236-web-crawler) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 ## Matrix
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
+| [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 ## Sliding Window
 |  |
 | ------- |
