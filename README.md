@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0056-merge-intervals) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
@@ -769,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
