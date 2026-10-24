@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3886-sum-of-sortable-integers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3886-sum-of-sortable-integers) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Union-Find
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Quickselect
 |  |
 | ------- |
