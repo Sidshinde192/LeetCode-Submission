@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0162-find-peak-element) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Newton's Method
 |  |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0169-majority-element) |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 ## Bitmask
 |  |
 | ------- |
@@ -837,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0023-merge-k-sorted-lists) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
