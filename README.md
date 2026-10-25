@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 ## Combinatorics
