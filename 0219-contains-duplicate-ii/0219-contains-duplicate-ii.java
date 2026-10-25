@@ -6,7 +6,7 @@ class Solution {
 
         for(int i =0; i< n;i++){
             if(map.containsKey(nums[i])){
-                if(i - map.get(nums[i]) == k){
+                if(i - map.get(nums[i]) <= k){
                     return true;
                 }
             }
