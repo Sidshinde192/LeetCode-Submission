@@ -14,29 +14,24 @@ class Solution {
             return null;
         }
 
-        int size =0;
-        ListNode curr = head;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(curr != null){
-            curr = curr.next;
-            size++;
+        for(int i =0; i<n;i++){
+            fast = fast.next;
         }
 
-        if(size == n){
+        if(fast == null){
             return head.next;
         }
 
-        int idxtoSearch = size - n;
-
-        int i = 1;
-        ListNode prev = head;
-
-        while(i < idxtoSearch){
-            prev = prev.next;
-            i++;
-
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next;
         }
-        prev.next = prev.next.next;
+
+        slow.next = slow.next.next;
+
         return head;
     }
 }
