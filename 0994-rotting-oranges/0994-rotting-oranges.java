@@ -11,21 +11,19 @@ class Solution {
         }
     }
     public int orangesRotting(int[][] grid) {
-
         int n = grid.length;
         int m = grid[0].length;
 
-        int visited[][] = new int[n][m];
-        Queue<Pair> q = new LinkedList<>();
-
         int countFresh =0;
 
+        Queue<Pair> q = new LinkedList<>();
+        int [][] visited = new int[n][m];
+
         for(int i =0; i< n;i++){
-            for(int j =0;j< m;j++){
+            for(int j =0; j< m;j++){
                 if(grid[i][j] == 2){
                     visited[i][j] = 2;
-                    q.add(new Pair(i,j,0));
-
+                    q.add(new Pair(i, j, 0));
                 }
                 else if(grid[i][j] == 1){
                     countFresh++;
@@ -33,11 +31,11 @@ class Solution {
             }
         }
 
-        int [] dr ={-1,0,1,0};
-        int [] dc ={0,1,0,-1};
-
-        int time =0;
         int count =0;
+        int time =0;
+
+        int [] dr = {-1, 0,1 ,0};
+        int [] dc = {0, 1, 0, -1};
 
         while(!q.isEmpty()){
             Pair curr = q.poll();
@@ -47,10 +45,11 @@ class Solution {
 
             time = Math.max(time, tm);
 
-            for(int i =0; i< 4;i++){
-                int nrow = row + dr[i];
-                int ncol = col + dc[i];
-                if(nrow >=0 && nrow < n && ncol >=0 && ncol < m && grid[nrow][ncol]== 1&& visited[nrow][ncol] == 0){
+            for(int i =0; i < 4;i++){
+                int nrow = dr[i] + row;
+                int ncol = dc[i] + col;
+
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && visited[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
                     visited[nrow][ncol] = 2;
                     count++;
                     q.add(new Pair(nrow, ncol, tm + 1));
@@ -63,6 +62,5 @@ class Solution {
         }
 
         return time;
-        
     }
 }
