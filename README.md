@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Geometry
 |  |
 | ------- |
