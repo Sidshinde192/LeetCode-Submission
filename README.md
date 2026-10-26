@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2413-smallest-even-multiple) |
 | [3524-find-x-value-of-array-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -865,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
