@@ -1,18 +1,36 @@
 class Solution {
+    int n;
+    int m;
+    public boolean dfs(int [][] grid, int r, int c){
+        if(r >= n || r < 0 || c >= m || c < 0){
+            return false;
+        }
+
+        if(grid[r][c] == 1){
+            return true;
+
+        }
+
+        grid[r][c] = 1;
+
+        boolean left = dfs(grid, r, c-1);
+        boolean right = dfs(grid, r, c+1);
+        boolean down = dfs(grid, r+1, c);
+        boolean up = dfs(grid, r-1, c);
+
+        return left && right && down && up;
+
+
+    }
     public int closedIsland(int[][] grid) {
-         int n = grid.length;
-        int m = grid[0].length;
+        n = grid.length;
+        m = grid[0].length;
+        int count =0;
 
-        int count = 0;
-
-        int[][] visited = new int[n][m];
-        int[] dr = {-1, 0, 1, 0};
-        int[] dc = {0, 1, 0, -1};
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 0 && visited[i][j] == 0) {
-                    if (dfs(i, j, grid, visited, dr, dc)) {
+        for(int i =0; i< n;i++){
+            for(int j =0; j< m;j++){
+                if(grid[i][j] == 0){
+                    if(dfs(grid, i, j)){
                         count++;
                     }
                 }
@@ -20,35 +38,6 @@ class Solution {
         }
 
         return count;
-    }
-
-    public boolean dfs(int row, int col, int[][] grid,
-                       int[][] visited, int[] dr, int[] dc) {
-
-        visited[row][col] = 1;
-
-        boolean closed = true;
-
-        if (row == 0 || row == grid.length - 1 ||
-            col == 0 || col == grid[0].length - 1) {
-            closed = false;
-        }
-
-        for (int i = 0; i < 4; i++) {
-            int nrow = row + dr[i];
-            int ncol = col + dc[i];
-
-            if (nrow >= 0 && nrow < grid.length &&
-                ncol >= 0 && ncol < grid[0].length &&
-                grid[nrow][ncol] == 0 &&
-                visited[nrow][ncol] == 0) {
-
-                if (!dfs(nrow, ncol, grid, visited, dr, dc)) {
-                    closed = false;
-                }
-            }
-        }
-
-        return closed;
+        
     }
 }
