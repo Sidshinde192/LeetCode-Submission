@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0739-daily-temperatures) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
@@ -896,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2413-smallest-even-multiple) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
