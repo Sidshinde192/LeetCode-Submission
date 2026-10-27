@@ -22,8 +22,8 @@ class Solution {
 
         List<List<String>> ans = new ArrayList<>();
 
-        for(List<String> res : bmp.values()){
-            ans.add(res);
+        for(List<String> result : bmp.values()){
+            ans.add(result);
         }
 
         return ans;
