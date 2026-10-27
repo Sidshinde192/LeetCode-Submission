@@ -6,23 +6,23 @@ class Solution {
             return ans;
         }
 
-        dfs("",0,0,n, ans);
+        dfs("", 0 , 0, ans, n);
 
         return ans;
     }
 
-    public void dfs(String curr, int open, int close, int n, List<String> ans){
+    public void dfs(String curr, int open, int close, List<String> ans, int n){
         if(curr.length() == 2 * n){
             ans.add(curr);
             return;
         }
 
         if(open < n){
-            dfs(curr + "(", open + 1, close, n, ans);
+            dfs(curr + "(", open + 1, close, ans, n);
         }
 
         if(close < open){
-            dfs(curr + ")", open, close + 1, n, ans);
+            dfs(curr + ")", open, close+1, ans, n);
         }
     }
 }
