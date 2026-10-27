@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-web-crawler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1236-web-crawler) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0802-find-eventual-safe-states) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Shortest Path
 |  |
