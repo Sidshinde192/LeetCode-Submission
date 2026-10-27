@@ -8,20 +8,22 @@ class Solution {
 
         int left =0;
         int right =0;
-        int jumps =0;
+        int jump =0;
 
         while(right < n-1){
             int far =0;
 
-            for(int i = left; i <= right; i++){
-                far = Math.max(far, nums[i] + i);
-            } 
+            for(int i = left; i <= right;i++){
+                far = Math.max(far, i + nums[i]);
+            }
 
-            left = right+1;
+            left = right + 1;
             right = far;
-            jumps++;
+            jump++;
         }
 
-        return jumps;
+        return jump;
+
+
     }
 }
