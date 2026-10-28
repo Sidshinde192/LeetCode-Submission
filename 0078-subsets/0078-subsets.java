@@ -2,13 +2,17 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
 
-        if(nums.length == 0){
+        int n = nums.length;
+
+        if(n == 0){
             return ans;
         }
 
         dfs(0, ans, new ArrayList<>(), nums);
 
         return ans;
+
+
     }
 
     public void dfs(int start, List<List<Integer>> ans, List<Integer> temp, int [] nums){
