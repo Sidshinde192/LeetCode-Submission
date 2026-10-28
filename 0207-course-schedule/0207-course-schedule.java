@@ -23,7 +23,7 @@ class Solution {
 
         Queue<Integer> q = new LinkedList<>();
 
-        for(int i =0; i<numCourses;i++){
+        for(int i =0; i< numCourses;i++){
             if(indegree[i] == 0){
                 q.add(i);
             }
@@ -31,23 +31,23 @@ class Solution {
 
         List<Integer> topo = new ArrayList<>();
 
-
         while(!q.isEmpty()){
             int node = q.poll();
             topo.add(node);
 
-            for(int neigh : adj.get(node)){
-                indegree[neigh]--;
-                if(indegree[neigh] == 0){
-                    q.add(neigh);
+            for(int neighbor : adj.get(node)){
+                indegree[neighbor]--;
+
+                if(indegree[neighbor] == 0){
+                    q.add(neighbor);
                 }
             }
+
         }
 
         if(topo.size() == numCourses){
             return true;
         }
-
         return false;
     }
 }
