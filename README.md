@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0751-ip-to-cidr](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0751-ip-to-cidr) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
