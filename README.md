@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0704-binary-search](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0733-flood-fill) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0771-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
+| [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
