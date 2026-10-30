@@ -4,7 +4,7 @@ class Solution {
             return 0;
         }
 
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
 
         PriorityQueue<Integer> pq = new PriorityQueue<>();
 
