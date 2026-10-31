@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0922-sort-array-by-parity-ii) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
+| [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
