@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3665-twisted-mirror-path-count) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Backtracking
 |  |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 | [1901-find-a-peak-element-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1901-find-a-peak-element-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3665-twisted-mirror-path-count) |
 ## Sliding Window
 |  |
 | ------- |
