@@ -4,15 +4,18 @@ class RandomizedSet {
     public RandomizedSet() {
         map = new HashMap<>();
         list = new ArrayList<>();
+        
     }
     
     public boolean insert(int val) {
         if(map.containsKey(val)){
             return false;
         }
+
         list.add(val);
         map.put(val, list.size() - 1);
         return true;
+        
     }
     
     public boolean remove(int val) {
@@ -21,9 +24,9 @@ class RandomizedSet {
         }
 
         int idx = map.get(val);
-        list.set(idx, list.get(list.size() -1));
+        list.set(idx, list.get(list.size() - 1));
         map.put(list.get(idx), idx);
-        list.remove(list.size() -1);
+        list.remove(list.size() - 1);
         map.remove(val);
         return true;
         
