@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0301-remove-invalid-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
