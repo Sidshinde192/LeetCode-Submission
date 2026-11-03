@@ -1,18 +1,17 @@
 class Solution {
     public int calculate(String s) {
         Stack<Integer> st = new Stack<>();
-        char op = '+';
         int num =0;
+        char op = '+';
 
-
-        for(int i =0; i< s.length();i++){
+        for(int i = 0; i< s.length();i++){
             char ch = s.charAt(i);
 
             if(Character.isDigit(ch)){
                 num = num * 10 + (ch - '0');
             }
 
-            if((!Character.isDigit(ch) && ch != ' ') || i == s.length() -1){
+            if((!Character.isDigit(ch) && ch != ' ') || i == s.length() - 1){
                 if(op == '+'){
                     st.push(num);
                 }
@@ -20,10 +19,10 @@ class Solution {
                     st.push(-1 * num);
                 }
                 else if(op == '*'){
-                    st.push(num * st.pop());
+                    st.push(st.pop() * num);
                 }
                 else{
-                    st.push(st.pop()/num);
+                    st.push(st.pop() / num);
                 }
 
                 num =0;
@@ -32,10 +31,12 @@ class Solution {
         }
 
         int sum =0;
+
         while(!st.isEmpty()){
-            sum = sum + st.pop();
+            sum += st.pop();
         }
 
         return sum;
+
     }
 }
