@@ -1,6 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         int n = digits.length();
+
         List<String> ans = new ArrayList<>();
 
         if(n == 0){
@@ -16,9 +17,10 @@ class Solution {
         map.put('6', "mno");
         map.put('7', "pqrs");
         map.put('8', "tuv");
-        map.put('9', "wxyz");
+        map.put('9', "xyz");
 
         solve(0, "", digits, ans, map);
+
         return ans;
     }
 
@@ -32,7 +34,7 @@ class Solution {
         String str = map.get(ch);
 
         for(int i =0; i< str.length();i++){
-            solve(idx+1, curr + str.charAt(i), digits, ans,map);
+            solve(idx + 1, curr + str.charAt(i), digits, ans, map);
         }
     }
 }
