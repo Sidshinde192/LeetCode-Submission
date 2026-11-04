@@ -17,7 +17,7 @@ class Solution {
         map.put('6', "mno");
         map.put('7', "pqrs");
         map.put('8', "tuv");
-        map.put('9', "xyz");
+        map.put('9', "wxyz");
 
         solve(0, "", digits, ans, map);
 
