@@ -3,18 +3,18 @@ class Solution {
         if(numRows == 1){
             return s;
         }
-
         StringBuilder ans = new StringBuilder();
 
-        for(int i =0; i< numRows; i++){
+        for(int i =0; i< numRows;i++){
             int idx = i;
-            int deltaSouth = 2 * (numRows - 1- i);
+
+            int deltaSouth = 2 * (numRows - 1 - i);
             int deltaNorth = 2 * i;
             boolean goingDown = true;
 
-
             while(idx < s.length()){
                 ans.append(s.charAt(idx));
+
                 if(i == 0){
                     idx += deltaSouth;
                 }
@@ -31,9 +31,12 @@ class Solution {
 
                     goingDown = !goingDown;
                 }
-            }
-        }
 
+
+            }
+
+            
+        }
         return ans.toString();
     }
 }
