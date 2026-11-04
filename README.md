@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0525-contiguous-array) |
+| [0531-lonely-pixel-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0531-lonely-pixel-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0525-contiguous-array) |
+| [0531-lonely-pixel-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0531-lonely-pixel-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0531-lonely-pixel-i) |
 | [0733-flood-fill](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
