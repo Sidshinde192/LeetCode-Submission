@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0472-concatenated-words) |
+| [0567-permutation-in-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0751-ip-to-cidr](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0751-ip-to-cidr) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
