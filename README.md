@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1762-buildings-with-an-ocean-view) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1882-process-tasks-using-servers) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
