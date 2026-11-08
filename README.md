@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1236-web-crawler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1236-web-crawler) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 | [1236-web-crawler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1236-web-crawler) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
@@ -779,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Quickselect
 |  |
