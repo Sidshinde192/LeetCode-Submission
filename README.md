@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0751-ip-to-cidr](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0751-ip-to-cidr) |
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
