@@ -5,21 +5,24 @@ class Solution {
 
         while(i < j){
             if(s.charAt(i) != s.charAt(j)){
-                return isPalindrome(s, i+1, j) || isPalindrome(s, i, j-1);
+                return isPalindrome(i+1, j, s) || isPalindrome(i, j-1, s);
             }
+
             i++;
             j--;
         }
+
         return true;
     }
 
-    public boolean isPalindrome(String s, int i, int j){
-        while(i < j){
-            if(s.charAt(i) != s.charAt(j)){
+    public boolean isPalindrome(int start, int end, String s){
+        while(start < end){
+            if(s.charAt(start) != s.charAt(end)){
                 return false;
             }
-            i++;
-            j--;
+
+            start++;
+            end--;
         }
 
         return true;
