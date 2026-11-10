@@ -30,8 +30,5 @@ class Solution {
         }
 
         return (int) num * sign;
-
-
-
     }
 }
