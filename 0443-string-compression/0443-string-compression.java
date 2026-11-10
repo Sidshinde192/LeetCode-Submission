@@ -5,25 +5,28 @@ class Solution {
         int index =0;
 
         while(start < n){
-            char curr = chars[start];
+            char ch = chars[start];
             int count =0;
 
-            while(start < n && curr == chars[start]){
+            while(start< n && ch == chars[start]){
                 start++;
                 count++;
             }
-            chars[index] = curr;
+
+            chars[index] = ch;
             index++;
 
             if(count > 1){
                 String count_str = Integer.toString(count);
-                for(char ch : count_str.toCharArray()){
-                    chars[index] = ch;
+
+                for(char num : count_str.toCharArray()){
+                    chars[index] = num;
                     index++;
                 }
             }
         }
 
         return index;
+        
     }
 }
