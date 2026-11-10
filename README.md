@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0218-the-skyline-problem) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3886-sum-of-sortable-integers) |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2413-smallest-even-multiple) |
 ## Ordered Set
 |  |
@@ -1039,4 +1043,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
