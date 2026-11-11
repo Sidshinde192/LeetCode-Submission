@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0472-concatenated-words](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0525-contiguous-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0465-optimal-account-balancing) |
 | [0472-concatenated-words](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0472-concatenated-words) |
+| [0487-max-consecutive-ones-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0487-max-consecutive-ones-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0424-longest-repeating-character-replacement) |
+| [0487-max-consecutive-ones-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
