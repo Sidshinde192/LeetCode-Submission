@@ -6,20 +6,21 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b) -> b - a);
 
         pq.addAll(map.values());
 
         int time =0;
 
         while(!pq.isEmpty()){
-
             List<Integer> temp = new ArrayList<>();
 
-            for(int i =0; i<n+1; i++){
+            for(int i =0; i<=n;i++){
                 if(!pq.isEmpty()){
                     temp.add(pq.poll());
+
                 }
+                
             }
 
             for(int freq : temp){
@@ -28,10 +29,11 @@ class Solution {
                 }
             }
 
-            time += pq.isEmpty() ? temp.size() : n+1;
+            time += pq.isEmpty() ? temp.size() : n + 1;
 
         }
 
         return time;
+        
     }
 }
