@@ -6,9 +6,10 @@ class Solution {
 
         Map<Character, Character> map = new HashMap<>();
 
-        for(int i =0;i< s.length();i++){
+        for(int i =0; i< s.length();i++){
             char og = s.charAt(i);
             char re = t.charAt(i);
+
 
             if(!map.containsKey(og)){
                 if(!map.containsValue(re)){
@@ -27,5 +28,6 @@ class Solution {
         }
 
         return true;
+        
     }
 }
