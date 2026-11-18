@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
