@@ -3,8 +3,8 @@ class Solution {
         int slow = n;
         int fast = n;
 
-        slow = square(slow);
-        fast = square(square(fast));
+        slow = square(n);
+        fast = square(square(n));
 
         while(slow != fast){
             slow = square(slow);
@@ -12,10 +12,12 @@ class Solution {
         }
 
         return slow == 1;
+
     }
 
     public int square(int n){
         int sum =0;
+
         while(n != 0){
             int d = n % 10;
             sum += d * d;
