@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
+| [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
+| [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0383-ransom-note) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0068-text-justification) |
+| [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0735-asteroid-collision](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
@@ -904,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
+| [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
