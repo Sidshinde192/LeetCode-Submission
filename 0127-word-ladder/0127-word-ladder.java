@@ -1,41 +1,43 @@
 class Solution {
     class Pair{
-        String word;
+        String words;
         int steps;
-        Pair(String word, int steps){
-            this.word = word;
-            this.steps = steps;
+
+        Pair(String words, int steps){
+            this.words = words;
+            this.steps = steps; 
         }
     }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+
         Set<String> set = new HashSet<>();
 
         for(String word : wordList){
             set.add(word);
         }
-        Queue<Pair> q = new LinkedList<>();
 
-        q.add(new Pair(beginWord, 1));
+        Queue<Pair> q = new LinkedList<>();
+        q.offer(new Pair(beginWord, 1));
         set.remove(beginWord);
+
 
         while(!q.isEmpty()){
             Pair curr = q.poll();
-            String currWord = curr.word;
+            String currWord = curr.words;
             int step = curr.steps;
 
             if(currWord.equals(endWord)){
                 return step;
             }
 
-
             for(int i =0; i< currWord.length();i++){
-                for(char c='a'; c<='z'; c++){
+                for(char ch = 'a'; ch <= 'z'; ch++){
                     char [] replacement = currWord.toCharArray();
-                    replacement[i] = c;
-
+                    replacement[i] = ch;
                     String newWord = String.valueOf(replacement);
+
                     if(set.contains(newWord)){
-                        q.add(new Pair(newWord, step+1));
+                        q.offer(new Pair(newWord, step + 1));
                         set.remove(newWord);
                     }
                 }
@@ -43,5 +45,6 @@ class Solution {
         }
 
         return 0;
+        
     }
 }
