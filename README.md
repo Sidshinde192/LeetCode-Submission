@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
