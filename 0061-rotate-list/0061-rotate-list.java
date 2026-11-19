@@ -14,7 +14,8 @@ class Solution {
             return head;
         }
 
-        int count =1;
+        int count = 1;
+
         ListNode tail = head;
 
         while(tail.next != null){
@@ -22,25 +23,27 @@ class Solution {
             count++;
         }
 
+        k %= count;
+
         if(k == 0){
             return head;
         }
 
-        k %= count;
-
         tail.next = head;
-        ListNode newNode = knode(head, count - k);
+        ListNode newNode = kNode(head, count - k);
         head = newNode.next;
         newNode.next = null;
+
         return head;
+        
     }
 
-    public ListNode knode(ListNode temp, int k){
-        k -= 1;
+    public ListNode kNode(ListNode temp, int k){
+        k -=1;
 
         while(temp != null && k > 0){
-            temp = temp.next;
             k--;
+            temp = temp.next;
         }
 
         return temp;
