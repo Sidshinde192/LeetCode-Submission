@@ -8,19 +8,18 @@ class Solution {
             }
         }
 
-        int maxLength =0;
-        int sum =0;
 
         Map<Integer, Integer> map = new HashMap<>();
         map.put(0, -1);
-
+        int sum =0;
+        int maxLength =0;
 
         for(int i =0; i< n;i++){
             sum += nums[i];
 
             if(map.containsKey(sum)){
                 int left = map.get(sum);
-                maxLength = Math.max(maxLength, (i - left));
+                maxLength = Math.max(maxLength, i - left);
             }
             else{
                 map.put(sum, i);
@@ -28,5 +27,6 @@ class Solution {
         }
 
         return maxLength;
+        
     }
 }
