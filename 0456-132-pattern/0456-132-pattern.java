@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         int secondMax = Integer.MIN_VALUE;
 
-        for(int i = nums.length - 1;i>=0;i--){
+        for(int i = nums.length-1; i>=0;i--){
             if(nums[i] < secondMax){
                 return true;
             }
@@ -16,5 +16,6 @@ class Solution {
         }
 
         return false;
+        
     }
 }
