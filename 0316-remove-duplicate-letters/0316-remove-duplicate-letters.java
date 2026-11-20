@@ -4,27 +4,27 @@ class Solution {
 
         int [] last = new int[26];
 
-        for(int i =0; i< n;i++){
+        for(int i =0; i< s.length();i++){
             last[s.charAt(i) - 'a'] = i;
         }
 
-        boolean [] visited = new boolean[26];
         Stack<Integer> st = new Stack<>();
+        boolean [] visited = new boolean[26];
 
         for(int i =0; i< n;i++){
-            int c = s.charAt(i) - 'a';
+            int ch = s.charAt(i) - 'a';
 
-            if(visited[c]){
+            if(visited[ch]){
                 continue;
             }
 
-            visited[c] = true;
+            visited[ch] = true;
 
-            while(!st.isEmpty() && st.peek() > c && last[st.peek()] > i){
+            while(!st.isEmpty() && st.peek() > ch && last[st.peek()] > i){
                 visited[st.pop()] = false;
             }
 
-            st.push(c);
+            st.push(ch);
         }
 
         StringBuilder ans = new StringBuilder();
@@ -36,5 +36,7 @@ class Solution {
         return ans.toString();
 
 
+
+        
     }
 }
