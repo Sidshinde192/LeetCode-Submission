@@ -1,10 +1,11 @@
 class RandomizedSet {
     Map<Integer, Integer> map;
     List<Integer> list;
+
     public RandomizedSet() {
+        
         map = new HashMap<>();
         list = new ArrayList<>();
-        
     }
     
     public boolean insert(int val) {
@@ -36,6 +37,7 @@ class RandomizedSet {
         Random rand = new Random();
 
         return list.get(rand.nextInt(list.size()));
+        
     }
 }
 
