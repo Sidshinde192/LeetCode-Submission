@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
