@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0445-add-two-numbers-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
