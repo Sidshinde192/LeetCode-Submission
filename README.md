@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
+| [0305-number-of-islands-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
+| [0305-number-of-islands-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0200-number-of-islands) |
+| [0305-number-of-islands-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0305-number-of-islands-ii) |
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1020-number-of-enclaves) |
