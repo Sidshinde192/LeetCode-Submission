@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0470-implement-rand10-using-rand7) |
 | [0836-rectangle-overlap](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 ## Combinatorics
 |  |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 ## Monotonic Queue
 |  |
