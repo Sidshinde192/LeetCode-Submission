@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1518-water-bottles) |
+| [1603-design-parking-system](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1929-concatenation-of-array) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0767-reorganize-string) |
 | [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
+| [1603-design-parking-system](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1603-design-parking-system) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Quickselect
 |  |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
+| [1603-design-parking-system](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1603-design-parking-system) |
 ## Combinatorics
 |  |
 | ------- |
