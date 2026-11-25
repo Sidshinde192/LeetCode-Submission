@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1660-correct-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1660-correct-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2747-count-zero-request-servers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
+| [1660-correct-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1660-correct-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
+| [1660-correct-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1660-correct-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
+| [1660-correct-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1660-correct-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
+| [1660-correct-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1660-correct-a-binary-tree) |
 | [1730-shortest-path-to-get-food](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1730-shortest-path-to-get-food) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
