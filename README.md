@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Geometry
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 ## Combinatorics
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
+| [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
 ## Monotonic Queue
