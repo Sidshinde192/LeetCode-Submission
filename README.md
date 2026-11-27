@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
+| [0362-design-hit-counter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0416-partition-equal-subset-sum) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
+| [0362-design-hit-counter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0362-design-hit-counter) |
 | [0410-split-array-largest-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0540-single-element-in-a-sorted-array) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
+| [0362-design-hit-counter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0303-range-sum-query-immutable) |
 | [0353-design-snake-game](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0353-design-snake-game) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
@@ -1107,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0362-design-hit-counter) |
 | [0933-number-of-recent-calls](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1429-first-unique-number) |
