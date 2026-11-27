@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0269-alien-dictionary) |
 | [0472-concatenated-words](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0733-flood-fill) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0666-path-sum-iv](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidshinde192/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Rolling Hash
 |  |
 | ------- |
